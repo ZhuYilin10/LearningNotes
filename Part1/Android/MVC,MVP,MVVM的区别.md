@@ -1,3 +1,4 @@
+#需要认真思考
 #MVC,MVP,MVVM的区别
 ---
 
@@ -37,8 +38,3 @@ MVP模式将Controller改名为Presenter，同时改变了通信方向。
 MVVM模式将Presenter改名为ViewModel，基本上与MVP模式完全一致。
 
 唯一的区别是，它采用双向绑定(data-binding)：View的变动，自动反映在ViewModel，反之亦然。
-
-
-
-
-
